@@ -1,0 +1,17 @@
+{
+  "name": "dead-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/crawler.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "kleur": "^4.1.5",
+    "puppeteer": "^19.8.3"
+  }
+}
