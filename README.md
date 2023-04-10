@@ -1,12 +1,11 @@
 ## Meilisearch docs crawler
 
-very basic crawler to catch dead links in a nextjs built app.
-Next.js tries to pre-fetch the content of URL's, which if dead, throws an error in the console on page load.
-This scripts catches the console errors but only focusses on 404 errors.
+very basic crawler to catch dead links.
 
 ### Setup
 
 ```
+
 npm install
 ```
 
